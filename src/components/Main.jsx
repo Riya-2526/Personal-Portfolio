@@ -25,7 +25,7 @@ export default function Main() {
             <div className="outerbox">
               <div className="box">
                 <div className="vertical">
-                  <div className="verticalheading">className 10</div>
+                  <div className="verticalheading">Class 10</div>
                   <div className="verticaltext">
                     <ul>
                       <li>Lord Mahavira Academy</li>
@@ -36,7 +36,7 @@ export default function Main() {
                   </div>
                 </div>
                 <div className="vertical">
-                  <div className="verticalheading">className 12</div>
+                  <div className="verticalheading">Class 12</div>
                   <div className="verticaltext">
                     <ul>
                       <li>Khalsa Public School</li>
